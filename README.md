@@ -19,7 +19,16 @@ Utilisation à vos risques et périls : L'utilisation de scripts tiers peut entr
 
 Respect des règles du jeu : Veillez à ne pas perturber l’expérience des autres joueurs.
 
-Utilisez un exécuteur de scripts Roblox compatible pour exécuter le script.
+📦 Installation
+Téléchargez ou clonez ce dépôt.
+
+Assurez-vous d'avoir un exécuteur de scripts Roblox compatible (exemple : Synapse X, Krnl, Fluxus, Solara).
+
+Ouvrez Roblox, lancez Bubble Gum Simulator, puis exécutez la commande suivante dans votre exécuteur :
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/theman2487/jytrhetrgheert/refs/heads/main/Fcyzium%20Hub%20BGSI.lua", true))()
+
+Profitez des fonctionnalités !
 
 📄 Licence
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
